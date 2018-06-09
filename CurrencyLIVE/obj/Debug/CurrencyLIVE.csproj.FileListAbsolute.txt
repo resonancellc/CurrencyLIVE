@@ -1,0 +1,10 @@
+C:\Users\Maciej\source\repos\CurrencyLIVE\CurrencyLIVE\bin\Debug\CurrencyLIVE.exe.config
+C:\Users\Maciej\source\repos\CurrencyLIVE\CurrencyLIVE\bin\Debug\CurrencyLIVE.exe
+C:\Users\Maciej\source\repos\CurrencyLIVE\CurrencyLIVE\bin\Debug\CurrencyLIVE.pdb
+C:\Users\Maciej\source\repos\CurrencyLIVE\CurrencyLIVE\obj\Debug\CurrencyLIVE.csprojResolveAssemblyReference.cache
+C:\Users\Maciej\source\repos\CurrencyLIVE\CurrencyLIVE\obj\Debug\CurrencyLIVE.Form1.resources
+C:\Users\Maciej\source\repos\CurrencyLIVE\CurrencyLIVE\obj\Debug\CurrencyLIVE.Properties.Resources.resources
+C:\Users\Maciej\source\repos\CurrencyLIVE\CurrencyLIVE\obj\Debug\CurrencyLIVE.csproj.GenerateResource.Cache
+C:\Users\Maciej\source\repos\CurrencyLIVE\CurrencyLIVE\obj\Debug\CurrencyLIVE.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\source\repos\CurrencyLIVE\CurrencyLIVE\obj\Debug\CurrencyLIVE.exe
+C:\Users\Maciej\source\repos\CurrencyLIVE\CurrencyLIVE\obj\Debug\CurrencyLIVE.pdb
